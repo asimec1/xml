@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Studenti>
+	<Version>23.456</Version>
+	<!-- Popis studenata -->
+	<Student RedniBroj="1">
+		<Ime>Miro</Ime>
+		<Prezime>Mirić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1997</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+			<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+			<!-- Pohađanje vježbi -->
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">NE</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+		</Predmet>
+	</Student>
+	<Student RedniBroj="2">
+		<Ime>Dara</Ime>
+		<Prezime>Daričić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1992</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+		<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">5</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+			</Kolokviji>
+			<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">NE</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+			</Predmet>
+	</Student>
+	<Student RedniBroj="3">
+		<Ime>Vesna</Ime>
+		<Prezime>Vesničić</Prezime>
+		<Grupa>A</Grupa>
+		<GodinaRodjenja>1980</GodinaRodjenja>
+		<Predmet>
+			<Naslov>XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+		<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">2</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">3</Kolokvij>
+		</Kolokviji>
+		<Vjezbe>
+				<Vjezba Sifra="Xml4_1">DA</Vjezba>
+				<Vjezba Sifra="Xml4_2">DA</Vjezba>
+				<Vjezba Sifra="Xml4_3">DA</Vjezba>
+				<Vjezba Sifra="Xml4_4">DA</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+			</Vjezbe>
+			</Predmet>
+	</Student>
+	<Student RedniBroj="4">
+		<Ime>Željko</Ime>
+		<Prezime>Željić</Prezime>
+		<Grupa>B</Grupa>
+		<GodinaRodjenja>1985</GodinaRodjenja>
+		<Predmet>
+			<Naslov>Uvod u XML programiranje</Naslov>
+			<Semestar>4</Semestar>
+		<Kolokviji>
+				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_2">0</Kolokvij>
+				<Kolokvij Sifra="Xml4_3">2</Kolokvij>
+		</Kolokviji>
+		<Vjezbe>
+				<Vjezba Sifra="Xml4_1">NE</Vjezba>
+				<Vjezba Sifra="Xml4_2">NE</Vjezba>
+				<Vjezba Sifra="Xml4_3">NE</Vjezba>
+				<Vjezba Sifra="Xml4_4">NE</Vjezba>
+				<Vjezba Sifra="Xml4_5">DA</Vjezba>
+				<Vjezba Sifra="Xml4_6">DA</Vjezba>
+				<Vjezba Sifra="Xml4_7">DA</Vjezba>
+				<Vjezba Sifra="Xml4_8">DA</Vjezba>
+		</Vjezbe>
+		</Predmet>
+	</Student>
+</Studenti>
+<!-- XML programiranje-->
