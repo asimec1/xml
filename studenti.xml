@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="current.xslt"?>
 <Studenti>
 	<Version>23.456</Version>
-<!-- Spisak studenata -->
+	<!-- Popis studenata -->
 	<Student RedniBroj="1">
 		<Ime>Miro</Ime>
 		<Prezime>Mirić</Prezime>
 		<Grupa>A</Grupa>
 		<GodinaRodjenja>1987</GodinaRodjenja>
 		<Predmet>
-			<Naslov>Uvod u XML programiranje</Naslov>
+			<Naslov>XML programiranje</Naslov>
 			<Semestar>4</Semestar>
 			<Kolokviji>
 				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
@@ -35,7 +35,7 @@
 		<Grupa>A</Grupa>
 		<GodinaRodjenja>1972</GodinaRodjenja>
 		<Predmet>
-			<Naslov>Uvod u XML programiranje</Naslov>
+			<Naslov>XML programiranje</Naslov>
 			<Semestar>4</Semestar>
 		<Kolokviji>
 				<Kolokvij Sifra="Xml4_1">5</Kolokvij>
@@ -60,7 +60,7 @@
 		<Grupa>A</Grupa>
 		<GodinaRodjenja>1980</GodinaRodjenja>
 		<Predmet>
-			<Naslov>Uvod u XML programiranje</Naslov>
+			<Naslov>XML programiranje</Naslov>
 			<Semestar>4</Semestar>
 		<Kolokviji>
 				<Kolokvij Sifra="Xml4_1">4</Kolokvij>
@@ -85,7 +85,7 @@
 		<Grupa>B</Grupa>
 		<GodinaRodjenja>1985</GodinaRodjenja>
 		<Predmet>
-			<Naslov>Uvod u XML programiranje</Naslov>
+			<Naslov>XML programiranje</Naslov>
 			<Semestar>4</Semestar>
 		<Kolokviji>
 				<Kolokvij Sifra="Xml4_1">0</Kolokvij>
@@ -105,4 +105,4 @@
 		</Predmet>
 	</Student>
 </Studenti>
-<!-- Uvod u XML programiranje XPath-->
+<!-- XML programiranje XPath-->
