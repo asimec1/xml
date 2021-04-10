@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="current.xslt"?>
+<!-- Popis studenata -->
 <Studenti>
 	<Version>23.456</Version>
-	<!-- Popis studenata -->
 	<Student RedniBroj="1">
 		<Ime>Miro</Ime>
 		<Prezime>Mirić</Prezime>
